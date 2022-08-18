@@ -14,124 +14,124 @@
     ``cheeks:
   accessories:
     12: { type: mlpz, layer: msc }
-    13: { type: mlpz, layer: beard }
+    `13: { type: mlpz, layer: beard }
     `14: { type: mlpz, layer: hair }
     `15: { type: mlpz, layer: hair }
     `16: { type: mlpz, layer: hair }
-    17: { type: mlpz, layer: msc }
+    `17: { type: mlpz, layer: beard }
     18: { type: mlpz, layer: msc }
-    19: { type: mlpz, layer: msc }
-    20: { type: mlpz, layer: glasses }
-    21: { type: mlpz, layer: glasses }
+    `19: { type: mlpz, layer: mouth }
+    `20: { type: mlpz, layer: eyes }
+    `21: { type: mlpz, layer: eyes }
     `22: { type: mlpz, layer: hair }
-    23: { type: mlpz, layer: beard }
+    `23: { type: mlpz, layer: beard }
     24: { type: mlpz, layer: msc }
     `25: { type: mlpz, layer: hair }
-    26: { type: mlpz, layer: msc }
+    `26: { type: mlpz, layer: beard }
     27: { type: mlpz, layer: msc }
     `28: { type: mlpz, layer: hair }
-    29: { type: mlpz, layer: glasses }
+    `29: { type: mlpz, layer: eyes }
     `30: { type: mlpz, layer: hair }
-    31: { type: mlpz, layer: glasses }
-    32: { type: mlpz, layer: msc }
+    `31: { type: mlpz, layer: eyes }
+    `32: { type: mlpz, layer: mouth }
     33: { type: mlpz, layer: msc }
     34: { type: mlpz, layer: msc }
-    35: { type: mlpz, layer: glasses }
+    `35: { type: mlpz, layer: eyes }
     `36: { type: mlpz, layer: hair }
     37: { type: mz, layer: hair }
     `38: { type: mlpz, layer: hair }
-    39: { type: mlpz, layer: eyes }
-    40: { type: mlpz, layer: beard }
-    41: { type: mlpz, layer: mask }
-    42: { type: mlpz, layer: beard }
-    43: { type: mlpz, layer: glasses }
-    44: { type: mlpz, layer: eyes }
+    `39: { type: mlpz, layer: eyes }
+    `40: { type: mlpz, layer: beard }
+    `41: { type: mlpz, layer: mouth }
+    `42: { type: mlpz, layer: beard }
+    `43: { type: mlpz, layer: eyes }
+    `44: { type: mlpz, layer: eyes }
     `45: { type: mlpz, layer: hair }
     `46: { type: mlpz, layer: hair }
     `47: { type: mlpz, layer: hair }
-    48: { type: mlpz, layer: msc }
+    `48: { type: mlpz, layer: beard }
     `49: { type: mlpz, layer: hair }
     `50: { type: mlpz, layer: hair }
     `51: { type: mlpz, layer: hair }
     52: { type: mlpz, layer: teeth }
     `53: { type: mlpz, layer: hair }
-    54: { type: mlpz, layer: msc }
+    `54: { type: mlpz, layer: beard }
     55: { type: mlpz, layer: msc }
-    56: { type: mlpz, layer: beard }
+    `56: { type: mlpz, layer: beard }
     `57: { type: mlpz, layer: hair }
     `58: { type: mlpz, layer: hair }
-    59: { type: mlpz, layer: beard }
+    `59: { type: mlpz, layer: beard }
     `60: { type: mlpz, layer: hair }
     61: { type: mlpz, layer: msc }
-    62: { type: mlpz, layer: glasses }
+    `62: { type: mlpz, layer: eyes }
     `63: { type: mlpz, layer: hair }
-    64: { type: mlpz, layer: pipe }
+    `64: { type: mlpz, layer: mouth }
     `65: { type: mlpz, layer: hair }
-    66: { type: mlpz, layer: msc }
+    `66: { type: mlpz, layer: beard }
     `67: { type: mlpz, layer: hair }
     68: { type: mlpz, layer: msc }
-    69: { type: mlpz, layer: msc }
+    `69: { type: mlpz, layer: beard }
     `70: { type: mlpz, layer: hair }
-    71: { type: mlpz, layer: glasses }
-    72: { type: mlpz, layer: glasses }
-    73: { type: mlpz, layer: eyes }
+    `71: { type: mlpz, layer: eyes }
+    `72: { type: mlpz, layer: eyes }
+    `73: { type: mlpz, layer: eyes }
     `74: { type: mlpz , layer: hair }
     `75: { type: f, layer: hair }
     `76: { type: f, layer: hair }
-    77: { type: f, layer: lip }
-    78: { type: f, layer: lip }
+    `77: { type: f, layer: lips }
+    `78: { type: f, layer: eyes }
     `79: { type: f, layer: hair }
     80: { type: f, layer: msc }
     `81: { type: f, layer: hair }
-    82: { type: f, layer: glasses }
+    `82: { type: f, layer: eyes }
     `83: { type: f, layer: hair }
-    84: { type: f, layer: glasses }
+    `84: { type: f, layer: eyes }
     85: { type: f, layer: msc }
     `86: { type: f, layer: hair }
     87: { type: f, layer: msc }
     `88: { type: f, layer: hair }
-    89: { type: f, layer: glasses }
+    `89: { type: f, layer: eyes }
     `90: { type: f, layer: hair }
     `91: { type: f, layer: hair }
     `92: { type: f, layer: hair }
     `93: { type: f, layer: hair }
-    94: { type: f, layer: eyes }
-    95: { type: f, layer: pipe }
+    `94: { type: f, layer: eyes }
+    `95: { type: f, layer: mouth }
     `96: { type: f, layer: hair }
-    97: { type: f, layer: eyes }
+    `97: { type: f, layer: eyes }
     `98: { type: f, layer: hair }
     `99: { type: f, layer: hair }
-    100: { type: f, layer: eyes }
+    `100: { type: f, layer: eyes }
     `101: { type: f, layer: hair }
-    102: { type: f, layer: glasses }
-    103: { type: f, layer: glasses }
+    `102: { type: f, layer: eyes }
+    `103: { type: f, layer: eyes }
     104: { type: f, layer: hair }
     105: { type: f, layer: cap }
-    106: { type: f, layer: mask }
+    `106: { type: f, layer: mouth }
     `107: { type: f, layer: hair }
-    108: { type: f, layer: lip }
+    `108: { type: f, layer: lips }
     109: { type: f, layer: msc }
     110: { type: f, layer: hair }
     `111: { type: f, layer: hair }
     `112: { type: f, layer: hair }
     `113: { type: f, layer: hair }
-    114: { type: f, layer: eyes }
-    115: { type: f, layer: pipe }
-    116: { type: f, layer: glasses }
+    `114: { type: f, layer: eyes }
+    `115: { type: f, layer: mouth }
+    `116: { type: f, layer: eyes }
     `117: { type: f, layer: hair }
     118: { type: f, layer: msc }
-    119: { type: f, layer: glasses }
-    120: { type: f, layer: pipe }
+    `119: { type: f, layer: eyes }
+    `120: { type: f, layer: mouth }
     `121: { type: f, layer: hair }
     `122: { type: f, layer: hair }
     `123: { type: f, layer: hair }
-    124: { type: f, layer: glasses }
+    `124: { type: f, layer: eyes }
     125: { type: f, layer: msc }
-    126: { type: f, layer: eyes }
+    `126: { type: f, layer: eyes }
     `127: { type: f, layer: hair }
     128: { type: f, layer: msc }
     `129: { type: f, layer: hair }
     `130: { type: f, layer: hair }
-    131: { type: f, layer: lip }
-    132: { type: f, layer: glasses }
+    `131: { type: f, layer: lips }
+    `132: { type: f, layer: eyes }
     133: { type: f, layer: msc }
