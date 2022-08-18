@@ -1,137 +1,137 @@
 ---
   layers:
-    `hair: 6
-    `beard: 4
-    `eyes: 3
-    ``mouth: 
-    `teeth: 1
-    `lips: 1
-    ``neck: 
-    ``emotion: 
-    ``face:
-    ``ears: 
-    ``nose: 
-    ``cheeks:
+    hair: 6
+    beard: 4
+    eyes: 3
+    `mouth: 
+    teeth: 1
+    lips: 1
+    `neck: 
+    `emotion: 
+    `face:
+    `ears: 
+    `nose: 
+    `cheeks:
   accessories:
-    `12: { type: mlpz, layer: cheeks }
-    `13: { type: mlpz, layer: beard }
-    `14: { type: mlpz, layer: hair }
-    `15: { type: mlpz, layer: hair }
-    `16: { type: mlpz, layer: hair }
-    `17: { type: mlpz, layer: beard }
-    `18: { type: mlpz, layer: nose }
-    `19: { type: mlpz, layer: mouth }
-    `20: { type: mlpz, layer: eyes }
-    `21: { type: mlpz, layer: eyes }
-    `22: { type: mlpz, layer: hair }
-    `23: { type: mlpz, layer: beard }
-    `24: { type: mlpz, layer: emotion }
+    `12: { type: mz, layer: cheeks }
+    `13: { type: mz, layer: beard }
+    `14: { type: m, layer: hair }
+    15: { type: mlpz, layer: hair }
+    `16: { type: mlp, layer: hair }
+    `17: { type: mz, layer: beard }
+    `18: { type: mz, layer: nose }
+    19: { type: mlpz, layer: mouth }
+    20: { type: mlpz, layer: eyes }
+    21: { type: mlpz, layer: eyes }
+    22: { type: mlpz, layer: hair }
+    23: { type: mlpz, layer: beard }
+    `24: { type: mz, layer: emotion }
     `25: { type: mlpz, layer: hair }
-    `26: { type: mlpz, layer: beard }
-    `27: { type: mlpz, layer: face }
-    `28: { type: mlpz, layer: hair }
-    `29: { type: mlpz, layer: eyes }
-    `30: { type: mlpz, layer: hair }
-    `31: { type: mlpz, layer: eyes }
-    `32: { type: mlpz, layer: mouth }
-    `33: { type: mlpz, layer: neck }
-    `34: { type: mlpz, layer: emotion }
-    `35: { type: mlpz, layer: eyes }
-    `36: { type: mlpz, layer: hair }
+    `26: { type: mz, layer: beard }
+    27: { type: mlpz, layer: face }
+    `28: { type: mz, layer: hair }
+    29: { type: mlpz, layer: eyes }
+    `30: { type: mz, layer: hair }
+    31: { type: mlpz, layer: eyes }
+    `32: { type: mp, layer: mouth }
+    `33: { type: m, layer: neck }
+    `34: { type: mz, layer: emotion }
+    35: { type: mlpz, layer: eyes }
+    36: { type: mlpz, layer: hair }
     `37: { type: mz, layer: hair }
-    `38: { type: mlpz, layer: hair }
-    `39: { type: mlpz, layer: eyes }
-    `40: { type: mlpz, layer: beard }
-    `41: { type: mlpz, layer: mouth }
-    `42: { type: mlpz, layer: beard }
-    `43: { type: mlpz, layer: eyes }
-    `44: { type: mlpz, layer: eyes }
-    `45: { type: mlpz, layer: hair }
-    `46: { type: mlpz, layer: hair }
-    `47: { type: mlpz, layer: hair }
-    `48: { type: mlpz, layer: beard }
-    `49: { type: mlpz, layer: hair }
-    `50: { type: mlpz, layer: hair }
-    `51: { type: mlpz, layer: hair }
-    `52: { type: mlpz, layer: teeth }
+    38: { type: mlpz, layer: hair }
+    39: { type: mlpz, layer: eyes }
+    `40: { type: mz, layer: beard }
+    `41: { type: mpz, layer: mouth }
+    `42: { type: mz, layer: beard }
+    43: { type: mlpz, layer: eyes }
+    44: { type: mlpz, layer: eyes }
+    45: { type: mlpz, layer: hair }
+    `46: { type: mpz, layer: hair }
+    47: { type: mlpz, layer: hair }
+    `48: { type: mz, layer: beard }
+    49: { type: mlpz, layer: hair }
+    50: { type: mlpz, layer: hair }
+    `51: { type: mpz, layer: hair }
+    `52: { type: m, layer: teeth }
     `53: { type: mlpz, layer: hair }
-    `54: { type: mlpz, layer: beard }
-    `55: { type: mlpz, layer: face }
-    `56: { type: mlpz, layer: beard }
-    `57: { type: mlpz, layer: hair }
-    `58: { type: mlpz, layer: hair }
-    `59: { type: mlpz, layer: beard }
-    `60: { type: mlpz, layer: hair }
-    `61: { type: mlpz, layer: ears }
-    `62: { type: mlpz, layer: eyes }
-    `63: { type: mlpz, layer: hair }
-    `64: { type: mlpz, layer: mouth }
-    `65: { type: mlpz, layer: hair }
-    `66: { type: mlpz, layer: beard }
-    `67: { type: mlpz, layer: hair }
-    `68: { type: mlpz, layer: neck }
-    `69: { type: mlpz, layer: beard }
-    `70: { type: mlpz, layer: hair }
-    `71: { type: mlpz, layer: eyes }
-    `72: { type: mlpz, layer: eyes }
-    `73: { type: mlpz, layer: eyes }
-    `74: { type: mlpz , layer: hair }
+    `54: { type: mz, layer: beard }
+    `55: { type: m, layer: face }
+    `56: { type: m, layer: beard }
+    `57: { type: mz, layer: hair }
+    `58: { type: mz, layer: hair }
+    `59: { type: mz, layer: beard }
+    60: { type: mpz, layer: hair }
+    61: { type: mlpz, layer: ears }
+    62: { type: mlpz, layer: eyes }
+    63: { type: mlpz, layer: hair }
+    `64: { type: ml, layer: mouth }
+    65: { type: mlpz, layer: hair }
+    `66: { type: mz, layer: beard }
+    `67: { type: mpz, layer: hair }
+    68: { type: mpz, layer: neck }
+    `69: { type: m, layer: beard }
+    70: { type: mlpz, layer: hair }
+    `71: { type: mpz, layer: eyes }
+    `72: { type: mpz, layer: eyes }
+    73: { type: mlpz, layer: eyes }
+    74: { type: mlpz , layer: hair }
     `75: { type: f, layer: hair }
     `76: { type: f, layer: hair }
-    `77: { type: f, layer: lips }
+    77: { type: f, layer: lips }
     `78: { type: f, layer: eyes }
     `79: { type: f, layer: hair }
     `80: { type: f, layer: neck }
-    `81: { type: f, layer: hair }
-    `82: { type: f, layer: eyes }
+    81: { type: f, layer: hair }
+    82: { type: f, layer: eyes }
     `83: { type: f, layer: hair }
     `84: { type: f, layer: eyes }
-    `85: { type: f, layer: face }
+    85: { type: f, layer: face }
     `86: { type: f, layer: hair }
     `87: { type: f, layer: face }
-    `88: { type: f, layer: hair }
-    `89: { type: f, layer: eyes }
+    88: { type: f, layer: hair }
+    89: { type: f, layer: eyes }
     `90: { type: f, layer: hair }
     `91: { type: f, layer: hair }
     `92: { type: f, layer: hair }
-    `93: { type: f, layer: hair }
-    `94: { type: f, layer: eyes }
+    93: { type: f, layer: hair }
+    94: { type: f, layer: eyes }
     `95: { type: f, layer: mouth }
-    `96: { type: f, layer: hair }
+    96: { type: f, layer: hair }
     `97: { type: f, layer: eyes }
-    `98: { type: f, layer: hair }
+    98: { type: f, layer: hair }
     `99: { type: f, layer: hair }
-    `100: { type: f, layer: eyes }
+    100: { type: f, layer: eyes }
     `101: { type: f, layer: hair }
-    `102: { type: f, layer: eyes }
+    102: { type: f, layer: eyes }
     `103: { type: f, layer: eyes }
     `104: { type: f, layer: hair }
-    `105: { type: f, layer: hair }
+    105: { type: f, layer: hair }
     `106: { type: f, layer: mouth }
-    `107: { type: f, layer: hair }
-    `108: { type: f, layer: lips }
-    `109: { type: f, layer: nose }
-    `110: { type: f, layer: hair }
+    107: { type: f, layer: hair }
+    108: { type: f, layer: lips }
+    109: { type: f, layer: nose }
+    110: { type: f, layer: hair }
     `111: { type: f, layer: hair }
     `112: { type: f, layer: hair }
-    `113: { type: f, layer: hair }
-    `114: { type: f, layer: eyes }
-    `115: { type: f, layer: mouth }
+    113: { type: f, layer: hair }
+    114: { type: f, layer: eyes }
+    115: { type: f, layer: mouth }
     `116: { type: f, layer: eyes }
-    `117: { type: f, layer: hair }
+    117: { type: f, layer: hair }
     `118: { type: f, layer: neck }
-    `119: { type: f, layer: eyes }
-    `120: { type: f, layer: mouth }
+    119: { type: f, layer: eyes }
+    120: { type: f, layer: mouth }
     `121: { type: f, layer: hair }
     `122: { type: f, layer: hair }
-    `123: { type: f, layer: hair }
-    `124: { type: f, layer: eyes }
-    `125: { type: f, layer: ears }
+    123: { type: f, layer: hair }
+    124: { type: f, layer: eyes }
+    125: { type: f, layer: ears }
     `126: { type: f, layer: eyes }
     `127: { type: f, layer: hair }
     `128: { type: f, layer: cheeks }
     `129: { type: f, layer: hair }
-    `130: { type: f, layer: hair }
-    `131: { type: f, layer: lips }
-    `132: { type: f, layer: eyes }
+    130: { type: f, layer: hair }
+    131: { type: f, layer: lips }
+    132: { type: f, layer: eyes }
     `133: { type: f, layer: neck }
