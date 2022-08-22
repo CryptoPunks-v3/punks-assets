@@ -12,6 +12,9 @@
     `ears: 
     `nose: 
     `cheeks:
+  exclusive:
+    - ["face", "cheeks"]
+    - ["lips", "emotion", "teeth"]
   accessories:
     12: { type: mz, layer: cheeks }
     13: { type: mz, layer: beard }
